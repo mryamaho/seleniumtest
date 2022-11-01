@@ -1,6 +1,6 @@
 # seleniumtest
 this is code written for test engineer  job for websparks 
-designed to run on the testlink https://todo-list-login.firebaseapp.com/
+designed to run on the testlink https://todo-list-login.firebaseapp.com/ make sure that user has no existing lists
 
 README
 ensure that you have latest version of selenium installed and can be run on your IDE (this code was made on selenium 4.5.0)
